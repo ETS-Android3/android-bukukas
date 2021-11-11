@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCashBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">
+        Aplikasi ini dibuat oleh: \nNama: Muhammad Fakhryan Zulfahmi \nNIM : 1741720078 \nTanggal: 09 Nov 2021
+    </string>
+</resources>
